@@ -1,0 +1,42 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.canvas {
+    text-align: center;
+    padding-top: 5rem;
+    margin: auto;
+    text-align: center;
+    
+}
+.blocks {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.button {
+    border-radius: 10%;
+    height:100px;
+    width:100px;
+    border:1px solid black;
+    display:inline-block
+
+}
+
+#ice {
+    background-color :#a0d2eb;
+}
+#freezePurple {
+    background-color :#e5eaf5;
+}
+
+#MPurple {
+    background-color :#d0bdf4;
+}
+#purplePain {
+    background-color :#8458B3;
+}
+#HeavyPurple {
+    background-color :#494d5f;
+}
