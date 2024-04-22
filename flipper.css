@@ -8,7 +8,7 @@
     padding-top: 5rem;
     margin: auto;
     text-align: center;
-    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 .blocks {
     margin-top: 150px;
@@ -20,23 +20,26 @@
     height:100px;
     width:100px;
     border:1px solid black;
-    display:inline-block
+    display:inline-flex;
+    justify-content: space-evenly;
+    
 
 }
 
-#ice {
+#a{
     background-color :#a0d2eb;
 }
-#freezePurple {
-    background-color :#e5eaf5;
+
+#b{
+    background-color: purple;
 }
 
-#MPurple {
-    background-color :#d0bdf4;
+#c {
+    background-color :#651ee7;
 }
-#purplePain {
+#d{
     background-color :#8458B3;
 }
-#HeavyPurple {
+#e {
     background-color :#494d5f;
 }
